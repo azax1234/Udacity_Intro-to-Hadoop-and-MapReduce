@@ -24,7 +24,7 @@ def reducer():
         if author_id and author_id != thisauthour_id:
     
             '''finding the max count among the hours
-               if spam=[1,2,1,4,4,4,1], then count of each hour is [3,3,2,3,3,3,3] and maxCountOfHour is 3'''
+               if spam=[1,2,1,4,4,4,1], then count of each hour is [3,1,3,3,3,3,3] and maxCountOfHour is 3'''
             maxCountOfHour= max(map(lambda x:spam.count(x),spam))
             
             '''finding the hours with maxCountOfHour..in the above example this will
