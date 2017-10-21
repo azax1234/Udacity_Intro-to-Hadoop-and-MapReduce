@@ -1,2 +1,1 @@
-# Udacity_Intro-to-Hadoop-and-MapReduce
-# Udacity_Intro-to-Hadoop-and-MapReduce
+Codes for Udacity Big Data and Hadoop course
