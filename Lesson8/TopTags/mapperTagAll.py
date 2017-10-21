@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #mapper for finding all tags from all questions and all answers
+#it will print tags,node_type
 
 import sys
 import csv
