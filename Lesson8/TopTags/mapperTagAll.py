@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#mapper for finding all tags from all questions and all answers
 
 import sys
 import csv
